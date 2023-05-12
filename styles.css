@@ -1,6 +1,8 @@
 body {
-    background-color: #d7e6fa
-}
+    background-color: #d7e6fa;
+    font-size: 25px;
+    line-height: 250%;
+  }
 h1 {
     text-align: center;
     color: #ff1d58
@@ -8,8 +10,6 @@ h1 {
 }
 p {
     font-family: Verdana;
-    font-size: 50px;
-    line-height: 350px;
     color:#000000; 
 
 }
